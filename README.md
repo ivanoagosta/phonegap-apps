@@ -1,4 +1,4 @@
 phonegap-repository
 ===================
 
-phonegap-repository
+phonegap-apps
